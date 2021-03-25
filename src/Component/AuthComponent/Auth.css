@@ -1,0 +1,12 @@
+label{
+    font-weight: bold;
+}
+#authsection .formgroup input[type="radio"] {
+    display: inline;
+    width: auto;
+    margin: 10px 30px 0 20px;
+}
+h1{
+    font-size: larger;
+    color: white;
+}

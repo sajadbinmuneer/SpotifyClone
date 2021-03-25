@@ -1,0 +1,43 @@
+#spotifySliderBlock {
+    height: 100vh;
+    background-color: rgb(41, 65, 171);
+    background-image: url("../Background.svg");
+    background-size: 170%;
+    background-position: 44% 7%;
+  }
+  #spotifySliderBlock article {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+  }
+  #spotifySliderBlock article h1 {
+    color: #1ed760;
+    font-size: 10em;
+    font-weight: bold;
+    display: block;
+    width: 670px;
+    text-indent: -200px;
+    margin-top: 150px;
+  }
+  #spotifySliderBlock article p {
+    color: #1ed760;
+    font-size: 20px;
+    line-height: 24px;
+    padding-bottom: 40px;
+  }
+  #spotifySliderBlock article button {
+    width: 200px;
+    display: flex;
+    align-items: center;
+    height: 50px;
+    background-color: #1ed760;
+    color: rgb(41, 65, 171);
+    border-radius: 25px;
+    justify-content: center;
+    border: none;
+    font-size: 13px;
+    font-weight: 800;
+  }
+  
